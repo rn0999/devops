@@ -1,3 +1,9 @@
 Education :
 ECE
 Java course
+
+Skills:
+HTML
+CSS
+JS
+Node js
